@@ -1,0 +1,7 @@
+
+CMAKE_MINIMUM_REQUIRED(VERSION 3.18)
+
+PROJECT(project_LearnOpenGL)
+
+ADD_SUBDIRECTORY("lib/glfw")
+ADD_SUBDIRECTORY("learnopengl")
